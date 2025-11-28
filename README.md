@@ -1,3 +1,3 @@
 # gitdemo
 this for me
-auther - rishi
+auther - Saptarshi Mandal
